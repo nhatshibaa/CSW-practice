@@ -55,6 +55,8 @@
         <td><%=product.getPrice()%></td>
         <td><%=product.getQuantity()%></td>
     </tr>
+    <%}
+    %>
 </table>
 
 </body>
